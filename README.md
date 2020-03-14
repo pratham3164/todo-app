@@ -1,7 +1,5 @@
 # todo_app
-
-A new Flutter project.
-
+<img src="Screenshot_20200315-015336.png" width="170" height="320">   <img src="Screenshot_20200315-015427" width="170" height="320"> 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
